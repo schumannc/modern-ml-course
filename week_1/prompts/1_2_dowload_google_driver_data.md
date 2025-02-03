@@ -1,0 +1,1 @@
+Write a code to dowload data from https://drive.google.com/drive/u/0/folders/1BoOKkdPGPMFRzMpJL1GbnsKiz654hkzI google drive shared link into ./week_1/data/preproceced folder

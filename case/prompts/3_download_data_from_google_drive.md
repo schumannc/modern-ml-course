@@ -1,0 +1,1 @@
+# Write a python script to dowload all data from google drive (https://drive.google.com/drive/folders/1NVQtamDRuGuAIZCRfidvnlSPH1-xLGlG) and save it in ./case/data/processed
